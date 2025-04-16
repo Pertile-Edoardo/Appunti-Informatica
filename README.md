@@ -15,4 +15,4 @@ Realizzato da: Pertile Edoardo, Scoponi Cristian, Di Dio Marco A., Secco Leonard
 
 [Tabella Github](https://github.com/Di-Dio-Marco/Lavoro-ini)
 
-[App Lab - Code.org](https://edu.cospaces.io/Studio/Space/KepzxNNCQf7UnlnH)
+[App Lab - Code.org](https://edu.delightex.com/UAK-XVP)
