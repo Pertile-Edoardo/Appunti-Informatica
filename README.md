@@ -13,6 +13,6 @@ Realizzato da: Pertile Edoardo, Scoponi Cristian, Di Dio Marco A., Secco Leonard
 
 **Scrub Master-Altri Componenti: Pertile Edoardo, Scoponi Cristian, Di Dio Marco A., Secco Leonardo, Mion Davide**
 
-[Tabella Github](https://github.com/Di-Dio-Marco/Lavoro-ini)
+[Bacheca trello](https://trello.com/invite/b/67ff5b3fce465812fda94193/ATTIc7a967ace2f08ba575b5be3b927c6f63026AA0EF/concorso-2025-fakeland)
 
 [App Lab - Code.org](https://edu.delightex.com/UAK-XVP)
