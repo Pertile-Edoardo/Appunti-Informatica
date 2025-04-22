@@ -9,10 +9,10 @@ Abbiamo realizzato questo progetto in circa 1 mese, io e altre 4 persone  ci sia
 Realizzato da: Pertile Edoardo, Scoponi Cristian, Di Dio Marco A., Secco Leonardo e Mion Davide
 
 
-**3GI, ITIS G.MARCONI-VERONA, 30/04/2025**
+**3GI, ITIS G.MARCONI-VERONA, 23/04/2025**
 
 **Scrub Master-Altri Componenti: Pertile Edoardo, Scoponi Cristian, Di Dio Marco A., Secco Leonardo, Mion Davide**
 
 [Bacheca trello](https://trello.com/invite/b/67ff5b3fce465812fda94193/ATTIc7a967ace2f08ba575b5be3b927c6f63026AA0EF/concorso-2025-fakeland)
 
-[App Lab - Code.org](https://edu.delightex.com/UAK-XVP)
+[Cospaces](https://edu.delightex.com/UAK-XVP)
